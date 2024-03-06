@@ -21,4 +21,9 @@ We have optimized in the following areas:
     <img src='576x576-CorrespondingVideo.jpg' width='1000'/>
   </p>
 
+# wav2lip-576x576 Code Release Plan
+This project is not yet mature enough.
+We will gradually release the code, first release the data processing code, then release the inference code, and when the time is ripe, we will release the training code.
+
+### Project  made by Lu Rui from Langzizhixin Technology company in Chengdu, China. 2024
 
