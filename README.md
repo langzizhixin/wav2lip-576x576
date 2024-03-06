@@ -10,7 +10,7 @@ We have optimized in the following areas:
 # wav2lip-576x576 Project situation
 <p align='center'>
   <b>
-    <a href="https://github.com/langzizhixin](https://space.bilibili.com/431556168?spm_id_from=333.1007.0.0">Video </a>
+    <a href="https://space.bilibili.com/431556168">Video </a>
     | 
     <a href="https://github.com/langzizhixin">Project Page</a>
     |
