@@ -6,3 +6,19 @@ We have optimized in the following areas:
 2. Optimized dataset processing, eliminating the need to manually cut videos into seconds.
 3. We have optimized the network structure to better extract features.
 4. We trained the base model with a high-definition dataset of hundreds of people. Although its generalization ability is not strong, the effect is very good after single or multi person fine-tuning.
+
+# SyncTalk: The Devil😈 is in the Synchronization for Talking Head Synthesis
+The official repository of the paper [SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis](https://arxiv.org/abs/2311.17590)
+
+<p align='center'>
+  <b>
+    <a href="https://arxiv.org/abs/2311.17590">Paper</a>
+    | 
+    <a href="https://ziqiaopeng.github.io/synctalk/">Project Page</a>
+    |
+    <a href="https://github.com/ZiqiaoPeng/SyncTalk">Code</a> 
+  </b>
+</p> 
+  <p align='center'>  
+    <img src='image/synctalk.png' width='1000'/>
+  </p>
