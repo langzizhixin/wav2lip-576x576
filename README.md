@@ -10,13 +10,15 @@ We have optimized in the following areas:
 # wav2lip-576x576 Project situation
 <p align='center'>
   <b>
-    <a href=" https://github.com/langzizhixin](https://space.bilibili.com/431556168?spm_id_from=333.1007.0.0 ">Video </a>
+    <a href="https://github.com/langzizhixin](https://space.bilibili.com/431556168?spm_id_from=333.1007.0.0">Video </a>
     | 
-    <a href=" https://github.com/langzizhixin ">Project Page</a>
+    <a href="https://github.com/langzizhixin">Project Page</a>
     |
-    <a href=" https://github.com/langzizhixin ">Code</a> 
+    <a href="https://github.com/langzizhixin">Code</a> 
   </b>
 </p> 
   <p align='center'>  
     <img src='576x576-CorrespondingVideo.jpg' width='1000'/>
   </p>
+
+
