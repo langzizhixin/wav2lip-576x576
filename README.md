@@ -31,4 +31,4 @@ Thank you for their wonderful work.
 
 # author
 Project  made by Lu Rui from Langzizhixin Technology company in Chengdu, China. 2024
-
+At present, the video preprocessing, facial cropping, and audio Hubert processing codes have been completed. Welcome everyone to contribute code related to network structure, training, and inference.
