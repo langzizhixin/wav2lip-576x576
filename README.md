@@ -25,9 +25,10 @@ We have optimized in the following areas:
 This project is not yet mature enough.
 We will gradually release the code, first release the data processing code, then release the inference code, and when the time is ripe, we will release the training code.
 
-### acknowledge
+# acknowledge
 The code is mainly borrowed from wav2lip, wav2lip-288, wav2lip-384, ER NeRF, etc.
 Thank you for their wonderful work.
 
-### Project  made by Lu Rui from Langzizhixin Technology company in Chengdu, China. 2024
+# author
+Project  made by Lu Rui from Langzizhixin Technology company in Chengdu, China. 2024
 
