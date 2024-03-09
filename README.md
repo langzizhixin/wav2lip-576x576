@@ -30,5 +30,7 @@ The code is mainly borrowed from wav2lip, wav2lip-288, wav2lip-384, ER NeRF, etc
 Thank you for their wonderful work.
 
 # author
-Project  made by Lu Rui from Langzizhixin Technology company in Chengdu, China. 2024
+Project  made by Lu Rui from Langzizhixin Technology company in Chengdu, China, 2024.
+
+# Code contribution
 At present, the video preprocessing, facial cropping, and audio Hubert processing codes have been completed. Welcome everyone to contribute code related to network structure, training, and inference.
