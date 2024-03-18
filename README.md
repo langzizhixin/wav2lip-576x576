@@ -10,11 +10,11 @@ We have optimized in the following areas:
 # wav2lip-576x576 Project situation
 <p align='center'>
   <b>
-    <a href="https://space.bilibili.com/431556168">Video </a>
+    <a href="https://www.bilibili.com/video/BV1zK421v7wh/?vd_source=7720ff9e037156b51374d14ee8f76b51">Video </a>
     | 
     <a href="https://github.com/langzizhixin">Project Page</a>
     |
-    <a href="https://github.com/langzizhixin">Code</a> 
+    <a href="https://github.com/langzizhixin/wav2lip-576x576">Code</a> 
   </b>
 </p> 
   <p align='center'>  
@@ -26,7 +26,7 @@ This project is not yet mature enough.
 We will gradually release the code, first release the data processing code, then release the inference code, and when the time is ripe, we will release the training code.
 
 # acknowledge
-The code is mainly borrowed from wav2lip, wav2lip-288, wav2lip-384, ER NeRF, etc.
+The code is mainly borrowed from wav2lip, wav2lip-288, wav2lip-384, ER-NeRF, etc.
 Thank you for their wonderful work.
 
 # author
